@@ -1,2 +1,5 @@
 .DS_Store
 node_modules/
+server/page.generator.js
+public/
+npm-debug.log
